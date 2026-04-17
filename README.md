@@ -1,7 +1,7 @@
 # ¡Hola! Soy juanlu 👋
 
 ## 👨‍💻 Sobre mí
-Actualmente soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**. Me apasiona la automatización, la gestión de infraestructuras y la seguridad en redes. Este espacio es mi cuaderno de bitácora donde subo todas las prácticas y proyectos que realizo durante mi formación.
+Actualmente soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**. Me apasionan los entornos UNIX, la gestión de infraestructuras y la seguridad en redes. Este espacio es mi cuaderno de bitácora donde subo todas las prácticas y proyectos que realizo durante mi formación.
 
 - 🔭 Actualmente trabajando en: La interconexión de supermercados lerosur (TFG)
 - 🌱 Aprendiendo: Docker, Kubernetes y scripting avanzado.
